@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Liu"
+  given-names: "Kaihua"
+- family-names: "Liu"
+  given-names: "Xudong"
+  
+title: "Recycling Material Detection using Convolutional Neural Networks"
+version: 1.0.0
+date-released: 2022-09-01
+url: "https://github.com/kliucode/RecycleMaterialDetection-Python"
